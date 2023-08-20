@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "basic-campus-272502",
+  "private_key_id": "7a39c4c3aa7d8fec4ff6233352fd7ca058729c16",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDR72nfK7YL9qa\nR0095Atat3Wl5tq9yO3XzuL9SXqAstdAv3KZThYKMpUNxRzYVjPJh4672RszADgb\n5b3xMU8dXbLp1Jd0FrpooQgcnQsAgjdBZ/lzNC7Lo2GDLhYIdtv3c4PHh5xy/k5L\nI9SHTRBcTrChwB2iPbtjV/4uGopmW+tF25jarW5W+Mdn1O0alI24rfI+b7A2f7Wg\nMeHSPFnWI69mmG7xF7MGrGa0fdx6vwepjvMIwM47UwuH5MQ1gtDePZtKHCxgdLeg\nx2p/kz5/hof7/P2eddSm07C2Pe1W31H0GJj1SwmsjalqBZcW0LEKer0fPFAAAfwk\nj8I0XqtlAgMBAAECggEAOWDkhIh5tXMGJ+vIceWGQo8CZg9ZeYdG/3C+OI81DAjA\nf7lhGlOb3T40lrmyuoxFpjMLCP4HZGptkiDkuTB0XxwPfG5nXAhrmF+siv/H4kvg\noXrEDIoqL9KfTdSmS7Fk+6X49BFQMmevqJtsEJ9frce/VZ+l9WxvGYca3AAXZ3Ca\nYQohRXjkzgkRiNPftF/LK0xzmkhpOkh3zMEzuvs8ynPXjH368/+RUbaZ20/tI3S5\nneipvY56bSbGYM0qvBB+2WhtEPJ921+OLbLWKQEMKi2s2SnAfHYdiJh2eIr+cOyW\n7XLGHKQlxjaS4iIh+J5Ehii21B3nno5TZQ6GBMMx1wKBgQDgi27OkWybnp993IpN\n5xZIPiwXNzIhwRaL+s7xowM59sVC+KUPwa6WDn+FrH+zlIUw8N4t/IgK767VhtJ2\nsCZj0yQ0SEDlRRSAk2/68ZK5GIHET8FikLRAtl2GS973KEb1SVQyXHvBkQfe78X6\nLG2WgwYhvngE9q0xbItgr52pIwKBgQDeotWSLubiVBXkLwtOya2QotqEGCTUQCvo\nkxZDmLhESGlKo0evN3XAcdM3HMZI64TS5BQ/kihze2DXlnHVpNoam3Nl2+abZpNi\nP49raLWBmpovLbeV5IryBQcckcufQkbe1Ic9bQWR2IB6hfywQVyATBtiDIgS5vP/\nU1kH5E9V1wKBgHt3r+IdzJ51RjWqwtG7M2Fd7liFnSc6SO+HZaswe2Gv8x+0IO7d\nDOat6ijShRV1oRccGs8mgJei23vFuoxQp4tUWh/1atmmdnOMnpJZqtfkRdZwFGHi\nN3sty5dAuMUmfH37aDSY7eOtn6pSJYY+T7PnL8P2O4BfMzRt/uWXKxYJAoGBAKHF\nJ/JkaheiiZWYKVtCZ/9klerNsFUZm84OsmrDmYDkLL2zDu9eGQ2Qp6ywF9P8bjLe\nz2exx/rBd4ivJF/cvS4ALkWhF1trmUQWcxvUpa5arBYD3hXoTp200YoM1iwOeHiJ\nbQtRIG7tJc3hdc6Mb645ntwLxwQVFM49vb9iQdNZAoGBAKQguyRoIkF3GTNXium3\n1IciMbRNtpATI1vpTK2znC9yFxFqrF4EKFjUnIahwKmSFH/stSdWUhLol8dXpCg8\n6kuI6bRW50Sv1Ftmj3gxskjNh5elbr6msha4yN5FkJNe9iflgNh0Qhisg8DUirCF\nEUyJK8GsOOMKpFwhXM7HEA9K\n-----END PRIVATE KEY-----\n",
+  "client_email": "cotiz-usd@basic-campus-272502.iam.gserviceaccount.com",
+  "client_id": "108419645489307722189",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cotiz-usd%40basic-campus-272502.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
